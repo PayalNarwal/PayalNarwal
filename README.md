@@ -10,7 +10,12 @@
 
 
 ### ✨ Connect with me:
-<a href="https://www.linkedin.com/in/payalnarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sukritee-sharma-531413202/" height="30" width="40" /></a>   [https://www.linkedin.com/in/payalnarwal/]
+<a href="https://www.linkedin.com/in/payalnarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/payalnarwal" height="30" width="40" /></a>   [https://www.linkedin.com/in/payalnarwal/]
+
+
+### ✨ Visit my portfolio website:
+<a href="https://payalnarwal.github.io/PayalDeveloperWebsite/" target="blank">🌐</a>   [https://payalnarwal.github.io/PayalDeveloperWebsite/]
+
 
 
 <br />
