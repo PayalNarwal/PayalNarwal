@@ -1,12 +1,12 @@
 ## Hi there, I'm Payal Narwal 👋
 
-### 🔥 Software Developer grinding hard to make something cool 🔥
+### 🔥 A tech enthusiast passionate about learning and innovation  🔥
 
-- 💡 I am a tech enthusiast.
-- ⚡ I have good command over C++, Python, Java, HTML, CSS, MySQL etc.
-- 🔭 You can ask me about Data Structures and Algorithms, Front end web development and Data Science. 
-- 🌐 I’m looking to collaborate with other developers working on above mentioned tech-stack.
-- 🌱 I’m currently learning Machine Learning, AWS, Django etc.
+- 💡 BTech CSE-AI'26 undergrad at IGDTUW, Delhi.
+- ⚡ I have good command over C++, Python, Java, HTML, CSS, MySQL, etc.
+- 🔭 You can ask me about Data Structures and Algorithms, Front end web development, and Data Science. 
+- 🌐 I’m looking to collaborate with other developers working on above mentioned tech stack.
+- 🌱 I’m currently learning Machine Learning, AWS, Django, etc.
 
 
 ### ✨ Connect with me:
