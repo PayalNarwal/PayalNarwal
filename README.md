@@ -3,10 +3,10 @@
 ### 🔥 A tech enthusiast passionate about learning and innovation  🔥
 
 - 💡 BTech CSE-AI'26 undergrad at IGDTUW, Delhi.
-- ⚡ I have good command over C++, Python, Java, HTML, CSS, MySQL, etc.
-- 🔭 You can ask me about Data Structures and Algorithms, Front end web development, and Data Science. 
-- 🌐 I’m looking to collaborate with other developers working on above mentioned tech stack.
-- 🌱 I’m currently learning Machine Learning, AWS, Django, etc.
+- ⚡ I have good command over C++, Python, HTML, CSS, MySQL, Tailwind CSS, MongoDB, Express, React, etc.
+- 🔭 You can ask me about Data Structures and Algorithms, Web development (MERN Stack), and Data Science. 
+- 🌐 I’m looking to collaborate with other developers working on the above-mentioned tech stack.
+- 🌱 I’m currently learning Machine Learning, Cloud Computing, etc.
 
 
 ### ✨ Connect with me:
